@@ -1,0 +1,7 @@
+{
+    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.styles": [
+        "pdf-style/markdown-pdf.css"
+    ]
+}
